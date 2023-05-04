@@ -10,7 +10,7 @@ Welcome. Below is a step-by-step walkthrough of the onboarding process for new u
     - When acknowledging the ticket, add a ticket emoji to the message, and add an :ack: emoji to the message to assign it. 
 3. Validate the user has requested specific repositories 
     - Reply to the user to ask for specific list of the repositories that they need access to, and their manager or team lead should be able to give them the repository names. 
-    - Most times, the user will ask for access to the "ULP", <font color="red"> and users WILL NOT get access to all the repositories.</font>
+    - Most times, the user will ask for access to the "ULP", and users **WILL NOT** get access to all the repositories.
 4. Obtain required approvals
     - Look up the requester's manager in the orgization chart on the SharePoint site
     - Add two comments on the Jira ticket:
@@ -52,7 +52,7 @@ Welcome. Below is a step-by-step walkthrough of the onboarding process for new u
     - The prefix of the Team names match the prefix of the repository's name.
     - (Optional) if user is added one of the LOS or SBA-ULP Django repo, Add the user to one of the Lenders-Cooperative read only teams
       - The LOS and SBA-ULP Django applications have pip and npm dependencies on projects in the Lenders-Cooperative organization that require authorization to download.
-      - <font color="red"> ask Michael.</font>
+      - **ask Michael**
 
 9. User will receive an email from GitHub automatically to let them know that they have been added to the team
 10. Mark the CID Jira ticket as **DONE**
